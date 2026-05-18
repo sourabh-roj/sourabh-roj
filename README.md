@@ -1,57 +1,48 @@
-# Hi there, I'm Sourabh Roj! 👋
+<h1 align="center">Hi! I'm Sourabh. Welcome to my Github Page.</h1>
 
-I'm a B.Tech Computer Science Engineering (Cyber Security) student from Ahmedabad, India 🇮🇳, passionate about full-stack web development, cybersecurity, and building modern AI-powered digital experiences.
+<h3 align="center">Cyber Security Undergraduate & Full-Stack Developer</h3>
 
+I am an undergraduate student at National Forensic Sciences University, Delhi, specializing in Computer Science (Cyber Security). As a detail-oriented developer specializing in full-stack development and security, I am building innovative projects and am driven by a passion to learn new technologies. Right now, I am actively diving into Digital Forensics, Ethical Hacking, and Cryptography.
+
+Outside of coding, I am a state-level football player in the Under-14 and Under-17 categories. I also enjoy my time unwinding by practicing astrophotography!
+
+<br/>
+
+### 🛠️ Tech Stack
 ---
 
-### 👨‍💻 About Me
+**Languages & Core**
+<br/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- 🔭 Currently exploring **MERN Stack Development, Next.js, Cybersecurity, and AI-powered web applications**
-- 🚩 Interested in **Web Security, UI/UX Design, Full-Stack Development, and Cloud Technologies**
-- 💻 My go-to stack includes **JavaScript, React, Node.js, PHP, MongoDB, Tailwind CSS, and MySQL**
-- ⚽ Fun fact: I enjoy experimenting with creative UI designs, tech research, and learning new development tools
+<br/>
 
----
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛠️ Languages & Tech Stack
+<br/>
 
-**Programming Languages:**  
-C, C++, Java, Python, JavaScript, PHP
+**Backend & Database**
+<br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Web Technologies & Frameworks:**  
-HTML, CSS, Tailwind CSS, Bootstrap 5, React.js, Next.js, Node.js, Express.js, .NET Framework
+<br/>
 
-**Database & Cloud:**  
-MongoDB, MySQL, Firebase, Cloud Computing Basics
-
-**Cybersecurity & Core Subjects:**  
-Operating Systems, DBMS, Computer Networks, Cryptography, Theory of Computation, Cloud Computing
-
-**Tools & Platforms:**  
-Git, GitHub, VS Code, Figma, Microsoft Excel, Linux, cPanel, AWS Basics
-
----
-
-### 🚀 Featured Projects & Experience
-
-- **TaskHub – AI-Powered Task Management Platform**
-  - Built a modern productivity platform integrating task management with an AI-powered product photography studio using **Next.js, Node.js, MongoDB, Tailwind CSS, and AI APIs**. Focused on workflow optimization, responsive UI, and seamless image generation.
-
-- **DoRA Office Website – IIT Kanpur**
-  - Contributed to the development and enhancement of responsive web pages using **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, and PHP**. Improved design consistency, accessibility, and cross-platform responsiveness.
-
-- **Cybersecurity & Research Projects**
-  - Worked on projects and academic research involving **cryptography, network security, RSA/AES algorithms, and secure web practices**, while documenting technical findings and implementation workflows.
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://en.wikipedia.org/wiki/Here_%282024_film%29)
-- 🌐 GitHub: [GitHub Profile](https://github.com/)
-- 🚀 Portfolio: [My Portfolio](https://en.wikipedia.org/wiki/Here_%282024_film%29)
-
----
-
-*Thanks for visiting my profile! Feel free to connect, collaborate, or discuss exciting tech ideas and projects 🚀*
+**Tools & Platforms**
+<br/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
