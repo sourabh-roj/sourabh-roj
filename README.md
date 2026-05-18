@@ -6,9 +6,7 @@ I am a B.Tech-M.Tech integrated student at National Forensic Sciences University
 
 Outside of coding, I am a state-level football player (Under-14 and Under-17) and spend my free time unwinding by practicing astrophotography under the night sky!
 
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
-</a>
+
 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
