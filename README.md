@@ -10,6 +10,8 @@ Outside of coding, I am a state-level football player (Under-14 and Under-17) an
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+
 ### 🛠️ Tech Arsenal
 
 **Languages & Core** 
