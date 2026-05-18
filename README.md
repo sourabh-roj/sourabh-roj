@@ -6,7 +6,6 @@ I am a B.Tech-M.Tech integrated student at National Forensic Sciences University
 
 Outside of coding, I am a state-level football player (Under-14 and Under-17) and spend my free time unwinding by practicing astrophotography under the night sky!
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
 ### 🛠️ SKILLS
 
