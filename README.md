@@ -35,5 +35,5 @@ When I'm not debugging a tricky React component or trying to capture a difficult
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-roj&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
 </p>
