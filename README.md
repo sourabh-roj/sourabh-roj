@@ -1,34 +1,57 @@
 # Hi there, I'm Sourabh Roj! 👋
 
-I'm a Cyber Security undergraduate at NFSU Delhi, passionate about building secure applications, digital forensics, and solving complex problems. 
+I'm a B.Tech Computer Science Engineering (Cyber Security) student from Ahmedabad, India 🇮🇳, passionate about full-stack web development, cybersecurity, and building modern AI-powered digital experiences.
+
+---
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently focused on full-stack web development and cybersecurity, and I hold a Certified Network Security Practitioner (CNSP) certification.
-* 🚩 I'm an active Capture The Flag (CTF) player and love diving into cryptography, network security, and ethical hacking.
-* 💻 My go-to tech stack includes **React, Node.js, and Express.js**, with hands-on experience building robust full-stack applications.
-* ⚽ When I'm not coding or hunting for flags, I'm a state-level football player and practice astrophotography.
+- 🔭 Currently exploring **MERN Stack Development, Next.js, Cybersecurity, and AI-powered web applications**
+- 🚩 Interested in **Web Security, UI/UX Design, Full-Stack Development, and Cloud Technologies**
+- 💻 My go-to stack includes **JavaScript, React, Node.js, PHP, MongoDB, Tailwind CSS, and MySQL**
+- ⚽ Fun fact: I enjoy experimenting with creative UI designs, tech research, and learning new development tools
+
+---
 
 ### 🛠️ Languages & Tech Stack
 
-* **Programming Languages:** C, C++, Java, Python, JavaScript.
-* **Web Technologies & Frameworks:** HTML5, CSS3, React.js, Node.js, PHP, .NET Framework, Redux, Spring Framework, Hibernate, Servlets, JSP, TailwindCSS, and Bootstrap.
-* **Cybersecurity & Core CS:** Network Security, Ethical Hacking Basics, Cryptography, Information Security, and Digital Forensics.
-* **Tools & Platforms:** Git, VS Code, Adobe Photoshop, Wireshark, Linux, and MongoDB.
-* **Concepts:** SDLC, API Development, Agile Methodology, Software Testing, and Cyber Hygiene.
+**Programming Languages:**  
+C, C++, Java, Python, JavaScript, PHP
+
+**Web Technologies & Frameworks:**  
+HTML, CSS, Tailwind CSS, Bootstrap 5, React.js, Next.js, Node.js, Express.js, .NET Framework
+
+**Database & Cloud:**  
+MongoDB, MySQL, Firebase, Cloud Computing Basics
+
+**Cybersecurity & Core Subjects:**  
+Operating Systems, DBMS, Computer Networks, Cryptography, Theory of Computation, Cloud Computing
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, Figma, Microsoft Excel, Linux, cPanel, AWS Basics
+
+---
 
 ### 🚀 Featured Projects & Experience
 
-* **Personal Data Leak Checker**
-  * A full-stack Password Exposure & Breach Detection application utilizing Node.js, Express, MongoDB, and vanilla JavaScript. Features SHA-256 hashing, entropy-based scoring, and XSS protection.
-* **Web Development Intern @ IIT Kanpur**
-  * Built responsive web pages and improved UI/UX and cross-device compatibility.
+- **TaskHub – AI-Powered Task Management Platform**
+  - Built a modern productivity platform integrating task management with an AI-powered product photography studio using **Next.js, Node.js, MongoDB, Tailwind CSS, and AI APIs**. Focused on workflow optimization, responsive UI, and seamless image generation.
+
+- **DoRA Office Website – IIT Kanpur**
+  - Contributed to the development and enhancement of responsive web pages using **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, and PHP**. Improved design consistency, accessibility, and cross-platform responsiveness.
+
+- **Cybersecurity & Research Projects**
+  - Worked on projects and academic research involving **cryptography, network security, RSA/AES algorithms, and secure web practices**, while documenting technical findings and implementation workflows.
+
+---
 
 ### 📫 Let's Connect
 
-* **Email:** [sourabhroj@gmail.com](mailto:sourabhroj@gmail.com)
-* **LinkedIn:** [linkedin.com/in/sourabh-roj-1207a028a](https://www.linkedin.com/in/sourabh-roj-1207a028a/)
-* **GitHub:** [github.com/sourabh-roj](https://github.com/sourabh-roj)
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://en.wikipedia.org/wiki/Here_%282024_film%29)
+- 🌐 GitHub: [GitHub Profile](https://github.com/)
+- 🚀 Portfolio: [My Portfolio](https://en.wikipedia.org/wiki/Here_%282024_film%29)
 
 ---
-⭐️ *Feel free to reach out if you want to collaborate on a full-stack project or tackle some CTFs together!*
+
+*Thanks for visiting my profile! Feel free to connect, collaborate, or discuss exciting tech ideas and projects 🚀*
