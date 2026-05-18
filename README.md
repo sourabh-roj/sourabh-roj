@@ -35,18 +35,6 @@ Outside of coding, I am a state-level football player (Under-14 and Under-17) an
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-**Core Computer Science Subjects**
-* Operating Systems, DBMS, Computer Networks, Data Structures & Algorithms, Theory of Computation, Cloud Computing, Software Engineering, Compiler Design, Cyber Security, Cryptography
-
-**Cybersecurity Concepts**
-* Network Security, Cyber Attacks & Mitigation, Digital Privacy & Cyber Hygiene, Cyber Laws & Regulations, Ethical Hacking Basics, Information Security
-
-**Software & Development Concepts**
-* Software Testing, Software Quality Assurance, Agile Methodology, Requirement Analysis, SDLC, API Development, JDBC, Servlets, JSP, Hibernate, Spring Framework, Redux
-
-**Soft Skills**
-* Analytical Thinking, Problem Solving, Team Management, Strategic Planning, Communication Skills, Presentation Skills, Group Discussion
-
 ---
 
 ### 📫 Let's Connect!
