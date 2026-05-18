@@ -1,39 +1,47 @@
-# Hi there, I'm Sourabh Roj 👋
+# Hi! I'm Sourabh. Welcome to my Github Page. 👋
 
-I'm a B.Tech-M.Tech integrated student at National Forensic Sciences University, passionate about building secure applications and exploring the world of full-stack development. 
+### Cyber Security Undergraduate & Full-Stack Developer
 
-## 🚀 About Me
+I am a B.Tech-M.Tech integrated student at National Forensic Sciences University, specializing in Cyber Security. As a full-stack developer with a strong focus on secure coding, I love building robust applications and actively participating in Capture The Flag (CTF) challenges. Right now, I am diving deep into cryptography, network security, and digital forensics.
 
-* 💻 I specialize in full-stack web development, working primarily with **Node.js, Express.js, and React**.
-* 🔐 I have a deep interest in **Cybersecurity** and actively participate in **CTF (Capture The Flag)** challenges.
-* 🔭 I'm currently working on projects involving security and data privacy, including a **Personal Data Leak & Password Exposure Checker**.
-* ✨ Outside of tech, I'm an avid **astrophotography** enthusiast, capturing the night sky.
-* 📫 How to reach me: **[sourabhroj@gmail.com](mailto:sourabhroj@gmail.com)**
-
-## 🛠️ Tech Stack & Skills
-
-**Languages & Frameworks:**
-* React.js
-* Node.js
-* Express.js
-* JavaScript / HTML / CSS
-
-**Interests & Competencies:**
-* Full-Stack Web Development
-* Cryptography & Ciphers
-* Information Security & CTF Challenges
-* API Development & Secure Backend Architecture
-
-## 🏆 Current Projects
-
-* **Personal Data Leak & Password Exposure Checker:** An internship-level project featuring a secure backend built with Node.js and Express.js to check for compromised credentials.
-* **Mobile Applications:** Developing custom apps tailored to the B.Tech-M.Tech integrated curriculum.
-
-## ⚡ Fun Fact
-When I'm not debugging a tricky React component or trying to capture a difficult CTF flag, I'm probably outside trying to get the perfect shot of the stars!
+Outside of coding, I am a state-level football player (Under-14 and Under-17) and spend my free time unwinding by practicing astrophotography under the night sky!
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-roj&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
-</p>
+### ⚡ GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourabh-roj&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sourabh-roj&theme=tokyonight&hide_border=true)
+
+---
+
+### 🛠️ Tech Arsenal
+
+**Languages & Core** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frontend** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Database** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools, Platforms & Sec** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📫 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabhroj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-roj-1207a028a/)
