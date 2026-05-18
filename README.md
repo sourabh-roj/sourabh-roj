@@ -1,48 +1,39 @@
-<h1 align="center">Hi! I'm Sourabh. Welcome to my Github Page.</h1>
+# Hi there, I'm Sourabh Roj 👋
 
-<h3 align="center">Cyber Security Undergraduate & Full-Stack Developer</h3>
+I'm a B.Tech-M.Tech integrated student at National Forensic Sciences University, passionate about building secure applications and exploring the world of full-stack development. 
 
-I am an undergraduate student at National Forensic Sciences University, Delhi, specializing in Computer Science (Cyber Security). As a detail-oriented developer specializing in full-stack development and security, I am building innovative projects and am driven by a passion to learn new technologies. Right now, I am actively diving into Digital Forensics, Ethical Hacking, and Cryptography.
+## 🚀 About Me
 
-Outside of coding, I am a state-level football player in the Under-14 and Under-17 categories. I also enjoy my time unwinding by practicing astrophotography!
+* 💻 I specialize in full-stack web development, working primarily with **Node.js, Express.js, and React**.
+* 🔐 I have a deep interest in **Cybersecurity** and actively participate in **CTF (Capture The Flag)** challenges.
+* 🔭 I'm currently working on projects involving security and data privacy, including a **Personal Data Leak & Password Exposure Checker**.
+* ✨ Outside of tech, I'm an avid **astrophotography** enthusiast, capturing the night sky.
+* 📫 How to reach me: **[sourabhroj@gmail.com](mailto:sourabhroj@gmail.com)**
 
-<br/>
+## 🛠️ Tech Stack & Skills
 
-### 🛠️ Tech Stack
+**Languages & Frameworks:**
+* React.js
+* Node.js
+* Express.js
+* JavaScript / HTML / CSS
+
+**Interests & Competencies:**
+* Full-Stack Web Development
+* Cryptography & Ciphers
+* Information Security & CTF Challenges
+* API Development & Secure Backend Architecture
+
+## 🏆 Current Projects
+
+* **Personal Data Leak & Password Exposure Checker:** An internship-level project featuring a secure backend built with Node.js and Express.js to check for compromised credentials.
+* **Mobile Applications:** Developing custom apps tailored to the B.Tech-M.Tech integrated curriculum.
+
+## ⚡ Fun Fact
+When I'm not debugging a tricky React component or trying to capture a difficult CTF flag, I'm probably outside trying to get the perfect shot of the stars!
+
 ---
 
-**Languages & Core**
-<br/>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<br/>
-
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-<br/>
-
-**Backend & Database**
-<br/>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br/>
-
-**Tools & Platforms**
-<br/>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Sourabh's GitHub Stats" />
+</p>
